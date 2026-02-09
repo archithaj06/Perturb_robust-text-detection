@@ -1,5 +1,5 @@
-## PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree
-[Finding of NAACL 2025](https://aclanthology.org/2025.findings-naacl.464/)
+##  Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree
+
 
 ### Installation
 ```shell
